@@ -1,0 +1,28 @@
+img {
+    height: 175px;
+    width: 175px;
+    margin-top: 20px;
+}
+body {
+    background-image: url(
+        http://www.vectortiles.com/wp-content/uploads/hexagonal-honeycomb-patterns-03-600x600.jpg
+        );
+    background-size: 3%
+}
+.col {
+    margin: 25px;
+    background-color: ghostwhite;
+}
+.crystal {
+    margin-left: auto;
+    margin-right: auto;
+}
+.winLose {
+    height: 99px;
+}
+@media (min-width: 576px){
+.jumbotron {
+    padding-bottom: 10px;
+    padding-top: 10px
+}
+}
